@@ -82,3 +82,11 @@
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritish0510&show_icons=true&locale=en" alt="pritish0510" /></p>
+
+
+
+<p align="center">
+  <img src="https://github.com/pritish0510/pritish0510/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
+
+
