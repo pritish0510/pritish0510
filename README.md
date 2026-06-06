@@ -20,7 +20,7 @@
 
 </td>
     <td>
-      <img src="https://37.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif" alt="Dancing Banana" width="250"/>
+      <img src="https://64.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif" alt="Dancing Banana" width="250"/>
     </td>
   </tr>
 </table>
